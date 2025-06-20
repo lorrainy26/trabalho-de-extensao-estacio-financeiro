@@ -1,4 +1,4 @@
-# finance-mobile-estacio
+# trabalho-de-extensao-estacio-financeiro
 
 #Projeto de Extensão mobile tem como objetivo gerenciar o saldo financeiro de forma simples e prática. 
 Ele permite o cadastro de receitas e despesas, registrando valores e gerando um historico dos mesmos. 
